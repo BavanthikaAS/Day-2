@@ -8,5 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/BavanthikaAS/Day-2/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/BavanthikaAS/Day-2/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BavanthikaAS/Day-2/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BavanthikaAS/Day-2/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
